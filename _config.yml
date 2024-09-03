@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Peiyao (Pearl) Liu"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : #"she/her"  
+  bio              : "Graduate Student in Biomedical Science with a focus on developmental biology, epigenomics, bioinformatics, and an interest in regenerative medicine."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
