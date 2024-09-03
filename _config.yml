@@ -12,7 +12,7 @@ title                    : "Peiyao (Pearl) Liu"
 title_separator          : "-"
 name                     : &name "Peiyao Liu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pearlliu-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pearlliu-dev/pearlliu-dev.github.io"
 
