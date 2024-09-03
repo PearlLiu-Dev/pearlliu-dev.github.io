@@ -17,15 +17,15 @@ main:
   - title: "Blog"
     url: /posts/
     
-  #- title: "Guide"
-    #url: /markdown/
-    
   - title: "CV"
-    url: http://pearlliu-dev.github.io/files/CV.pdf
+    #url: http://pearlliu-dev.github.io/files/CV.pdf
     
   - title: "Art"
     url: /art/
     
-  #- title: "Quotes"
-    #url: /quotes/
+  # - title: "Quotes"
+    # url: /quotes/
+
+  # - title: "Guide"
+    # url: /markdown/
 
