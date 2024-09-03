@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_pearl.png"
   name             : "Peiyao (Pearl) Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
