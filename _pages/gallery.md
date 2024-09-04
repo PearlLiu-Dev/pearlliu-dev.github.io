@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Film Photography
-<center><img src="https://raw.githubusercontent.com/mbernste/mbernste.github.io/master/images/adventure.jpg" alt="drawing" width="700"/></center>
+<center><img src="https://raw.githubusercontent.com/mbernste/mbernste.github.io/master/images/film_coast.jpg" alt="drawing" width="700"/></center>
 <br>
 
 # Ecological Photography
