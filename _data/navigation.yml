@@ -23,9 +23,9 @@ main:
   - title: "Gallery"
     url: /gallery/
     
-  # - title: "Quotes"
-    # url: /quotes/
+  - title: "Quotes"
+    url: /quotes/
 
-  # - title: "Guide"
-    # url: /markdown/
+  - title: "Guide"
+    url: /markdown/
 
