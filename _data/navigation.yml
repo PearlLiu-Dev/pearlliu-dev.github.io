@@ -20,8 +20,8 @@ main:
   - title: "CV"
     url: http://pearlliu-dev.github.io/files/CV.pdf
     
-  - title: "Art"
-    url: /art/
+  - title: "Gallery"
+    url: /gallery/
     
   # - title: "Quotes"
     # url: /quotes/
