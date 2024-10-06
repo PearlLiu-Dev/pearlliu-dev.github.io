@@ -11,3 +11,5 @@ As a rotation student, I worked in [Dr. Bruce Aronow's lab](https://www.cincinna
 As a longtime fan of the Alien movie series, I'm fascinated by how life forms intricate organs and structures, develops into fully functioning organisms, and carries out complex physiological processes. Currently, in the Chen lab, Iâ€™m investigating the epigenetic regulatory mechanisms of early embryonic development, using mouse IVF, gene editing, and low-input next-generation sequencing.
 
 I enjoy the inner peace that comes from benchwork, and I also appreciate how programming sharpens my logical thinking. So, I am striving to become a developmental biologist who can integrate both dry lab and wet lab techniques. By utilizing in vivo, in vitro, and in silico models and techniques, I aim to uncover more mysteries of early developmental processes.
+
+I primarily speak Mandarin and English, with a bit of Japanese as well. Besides my research, I have a wide range of interests, including birdwatching, psychology, film photography, and fitness. After work, I enjoy relaxing with my cats, Heyhey and Matcha.
