@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a graduate student in [Dr. Zhiyuan Chen's lab](https://www.zychenlab.org/) at Cincinnati Children’s Hospital Medical Center (CCHMC). I earned my bachelor’s degree in Plant Science and Technology from in China. Inspired by my growing interest in developmental biology and driven by the challenges of the COVID-19 pandemic, I transitioned from plant science to biomedical research.
+Hello! I am a graduate student in [Dr. Zhiyuan Chen's lab](https://www.zychenlab.org/) at Cincinnati Children’s Hospital Medical Center (CCHMC). I earned my bachelor’s degree in Plant Science and Technology in China. Inspired by my growing interest in developmental biology and driven by the challenges of the COVID-19 pandemic, I transitioned from plant science to biomedical research.
 
 Following my undergraduate studies, I worked as a research assistant in [Dr. Pengcheng Bu’s lab](http://english.ibp.cas.cn/sourcedb/rck/EN_xsszmA_G/202005/t20200519_341424.html) at the Institute of Biophysics, Chinese Academy of Sciences, where I assisted with gut tissue sectioning and cell culture. This experience sparked my curiosity about cellular development and led me to explore research in organoid models and early development. At Cincinnati Children’s, I rotated in [Dr. Bruce Aronow's lab](https://www.cincinnatichildrens.org/research/divisions/b/bmi/labs/aronow), where I integrated and analyzed public single cell datasets from organoid systems, and in [Dr. Takanori Takebe's lab](https://takebelab.com/people/), where I learned to culture and differentiate human iPSCs.
 
