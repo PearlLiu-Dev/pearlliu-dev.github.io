@@ -2,8 +2,27 @@
 <div id="footer-links" style="text-align: left;">
   <a href="/sitemap/">Sitemap</a>
   <div id="visitor-map" style="margin-top: 1rem;"></div>
-  <script type='text/javascript' id='mapmyvisitors'
-    src='https://mapmyvisitors.com/map.js?cl=6b6b6b&w=167&t=tt&d=6QXJ7dyaZXIF5yCUOZMlIoIa-YwPlyy8GiTJgGKgqDE&co=f3f3f3&cmo=ffffff&cmn=ce414c&ct=6b6b6b'>
-  </script>
+
+<style>
+  #visitor-map {
+    text-align: left !important;
+    margin: 0 auto 0 0 !important;
+    display: block !important;
+  }
+
+  #visitor-map iframe {
+    display: block !important;
+    margin: 0 !important;
+  }
+</style>
+
+<script>
+  window.onload = function () {
+    var script = document.createElement('script');
+    script.id = 'mapmyvisitors';
+    script.src = 'https://mapmyvisitors.com/map.js?cl=6b6b6b&w=167&t=tt&d=6QXJ7dyaZXIF5yCUOZMlIoIa-YwPlyy8GiTJgGKgqDE&co=f3f3f3&cmo=ffffff&cmn=ce414c&ct=6b6b6b';
+    document.getElementById('visitor-map').appendChild(script);
+  };
+</script>
 </div>
 <!-- end custom footer snippets -->
