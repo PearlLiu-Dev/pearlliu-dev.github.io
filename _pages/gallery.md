@@ -15,17 +15,8 @@ My photos on Flickr: https://www.flickr.com/photos/204018402@N07/
 
 
 ### Ecological Photography
-<center><img src="https://github.com/PearlLiu-Dev/pearlliu-dev.github.io/blob/master/images/CommonMallard.JPG?raw=true" alt="drawing" width="700"/></center>
-<br>
-<center><img src="https://github.com/PearlLiu-Dev/pearlliu-dev.github.io/blob/master/images/mandarinduck.JPG?raw=true" alt="drawing" width="700"/></center>
-<br>
-<center><img src="https://github.com/PearlLiu-Dev/pearlliu-dev.github.io/blob/master/images/Greylaggoose.JPG?raw=true" alt="drawing" width="700"/></center>
-<br>
-<center><img src="https://github.com/PearlLiu-Dev/pearlliu-dev.github.io/blob/master/images/bluebird.JPG?raw=true" alt="drawing" width="700"/></center>
-<br>
-<center><img src="https://github.com/PearlLiu-Dev/pearlliu-dev.github.io/blob/master/images/bluejay.JPG?raw=true" alt="drawing" width="700"/></center>
-<br>
 
-### Scientific Illustration
+
+
 
 
